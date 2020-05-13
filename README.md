@@ -1,1 +1,4 @@
-## Welcome to AdA proejct
+## Welcome to the AdA Project
+
+!(/images/ada.png)
+
