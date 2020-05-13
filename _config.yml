@@ -9,3 +9,6 @@ navigation:
     url: /about    
   - title: "AdA Ontology"
     url: /ontology    
+
+author:
+  name: Henning Agt-Rickauer
