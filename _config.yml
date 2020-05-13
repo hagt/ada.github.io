@@ -1,7 +1,11 @@
 theme: jekyll-theme-minimal
 title: "AdA Project"
-description: "Audio-visual rhetorics of affect"
+description: "Research group “Audio-visual rhetorics of affect” (Affektrhetoriken des Audiovisuellen)"
 
 navigation:
   - title: "Home"
     url: /    
+  - title: "About"
+    url: /about    
+  - title: "AdA Ontology"
+    url: /ontology    
