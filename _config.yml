@@ -10,5 +10,7 @@ navigation:
   - title: "AdA Ontology"
     url: /ontology    
 
+markdown: kramdown
+
 author:
   name: Henning Agt-Rickauer
