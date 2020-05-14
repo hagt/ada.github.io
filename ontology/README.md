@@ -18,3 +18,15 @@ The AdA ontology is structured into three different kinds of film-analytical con
 
 ![Image Levels Types Values](levels_types_values.png)
 
+The ontology allows free text annotations (around a quarter of the types, e.g., dialog text) and annotations with predefined values (around three quarters of the types, see above).
+
+### Content
+
+The AdA ontology v1.8 currently consists of 8 annotation levels, 78 annotation types and 501 annotation values. Each level, type and value has a unique resource identifier (URI), an English and German name, and an English and German description. In addition, types are assigned color codes for better differentiation in annotation software.
+
+| URI | http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicAccent_crescendo |
+| Label (de) | anschwellend | 
+| Label (en) | crescendo | 
+| Description (de) | Deutliche Intensivierung der Musik, z.B. durch ansteigende Lautstärke oder ansteigende Tonhöhe. | 
+| Description (en) | Noticeable intensification of the music, e.g. through increasing volume or rising pitch. | 
+
