@@ -11,11 +11,11 @@ navigation:
     url: /ontology    
     subitems: 
       - title: "- Purpose"
-        url: /ontology/#Purpose    
+        url: /ontology/#purpose    
       - title: "- Structure"
-        url: /ontology/#Structure    
+        url: /ontology/#structure    
       - title: "- Content"
-        url: /ontology/#Content    
+        url: /ontology/#content    
   - title: "Annotations"
     url: /annotations    
 
