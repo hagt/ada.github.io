@@ -38,6 +38,7 @@ For example, the predefined value *crescendo* of the annotation type *MusicAccen
 
 ### Online Access
 
+We provide a browsable online version of the AdA ontology. Each entry of the ontology can be accessed by retrieving the respective URI of the term. As an entry point the [eMAEX annotation method](http://ada.filmontology.org/resource/2020/03/17/eMAEXannotationMethod) resource can be used. 
 
 ### Download
 

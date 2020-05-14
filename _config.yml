@@ -16,8 +16,12 @@ navigation:
         url: /ontology/#structure    
       - title: "- Content"
         url: /ontology/#content    
+  - title: "Corpus Metadata"
+    url: /corpus    
   - title: "Annotations"
     url: /annotations    
+  - title: "Publications"
+    url: /publications    
 
 markdown: kramdown
 
