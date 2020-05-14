@@ -9,10 +9,13 @@ navigation:
     url: /about    
   - title: "AdA Ontology"
     url: /ontology    
-  - title: "- Purpose"
-    url: /ontology/#Purpose    
-  - title: "- Structure"
-    url: /ontology/#Structure    
+    subitems: 
+      - title: "- Purpose"
+        url: /ontology/#Purpose    
+      - title: "- Structure"
+        url: /ontology/#Structure    
+  - title: "Annotations"
+    url: /annotations    
 
 markdown: kramdown
 
