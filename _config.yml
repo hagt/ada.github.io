@@ -9,6 +9,10 @@ navigation:
     url: /about    
   - title: "AdA Ontology"
     url: /ontology    
+  - title: "- Purpose"
+    url: /ontology/#Purpose    
+  - title: "- Structure"
+    url: /ontology/#Structure    
 
 markdown: kramdown
 
