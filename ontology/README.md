@@ -24,7 +24,8 @@ The ontology allows free text annotations (around a quarter of the types, e.g., 
 
 The AdA ontology v1.8 currently consists of 8 annotation levels, 78 annotation types and 501 annotation values. Each level, type and value has a unique resource identifier (URI), an English and German name, and an English and German description. In addition, types are assigned color codes for better differentiation in annotation software.
 
-For example, the predefined value *crescendo* of the annotation type *MusicAccent* is defined as follows:
+For example, the predefined value *crescendo* of the annotation type *MusicAccent* is defined as follows.
+
 | URI | http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicAccent_crescendo |
 | Label (de) | anschwellend | 
 | Label (en) | crescendo | 
