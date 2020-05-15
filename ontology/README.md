@@ -47,6 +47,9 @@ We provide a browsable online version of the AdA ontology. Each entry of the ont
 | Annotation Value | [Camera Movement Type - tracking shot](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/CameraMovementType_tracking_shot)|
 | Annotation Value | [Music Mood - sad](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicMood_sad)|
 
+We also developed an interactive visualization of the AdA ontology that can be accessed in our [OntoViz tool](http://ada.filmontology.org/ontoviz/).
 
 ### Download
+
+The AdA ontology is also available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology).
 

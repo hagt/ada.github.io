@@ -17,11 +17,11 @@ navigation:
       - title: "- Content"
         url: /ontology/#content    
       - title: "- Encoding"
-        url: /ontology/encoding    
+        url: /ontology/#encoding    
       - title: "- Online Access"
-        url: /ontology/online-access    
+        url: /ontology/#online-access    
       - title: "- Download"
-        url: /ontology/download    
+        url: /ontology/#download    
   - title: "Corpus Metadata"
     url: /corpus    
   - title: "Annotations"
