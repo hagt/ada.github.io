@@ -51,6 +51,8 @@ We provide a browsable online version of the AdA ontology. Each entry of the ont
 | Annotation Value | [Camera Movement Type - tracking shot](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/CameraMovementType_tracking_shot)|
 | Annotation Value | [Music Mood - sad](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicMood_sad)|
 
+The data is served using the RDF triplestore [OpenLink Virtuoso](https://virtuoso.openlinksw.com/) and [LodView](https://github.com/LodLive/LodView), a software for W3C standard compliant IRI dereferenciation.
+
 We also developed an interactive visualization of the AdA ontology that can be accessed in our [OntoViz tool](http://ada.filmontology.org/ontoviz/).
 
 ### Download

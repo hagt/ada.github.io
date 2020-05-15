@@ -6,9 +6,9 @@ navigation:
   - title: "Home"
     url: /    
   - title: "About the Project"
-    url: /about    
+    url: /about/
   - title: "AdA Ontology"
-    url: /ontology    
+    url: /ontology/
     subitems: 
       - title: "- Purpose"
         url: /ontology/#purpose    
@@ -23,11 +23,11 @@ navigation:
       - title: "- Download"
         url: /ontology/#download    
   - title: "Corpus Metadata"
-    url: /corpus    
+    url: /corpus/
   - title: "Annotations"
-    url: /annotations    
+    url: /annotations/
   - title: "Publications"
-    url: /publications    
+    url: /publications/
 
 markdown: kramdown
 
