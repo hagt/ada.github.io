@@ -8,7 +8,9 @@ The FU Berlin project team compiled a video corpus with feature films, documenta
 
 The corpus metadata is divided into general film metadata and metadata for video files. Film metadata contains information such as the identifier, title, director and summary of the film. The file metadata contains the exact runtime, the file name and an identifier that was determined by the SHA256 checksum of the file. 
 
-For example, the metadata for the feature film "The Company Men" is defined as follows:
+The corpus currently contains 408 movies (13 feature films, 76 documentaries, 315 TV news shows). 390 movies are available as transcoded material for analysis.
+
+For example, the metadata for the feature film "The Company Men" is available as follows:
 
 | Identifer | 60 |
 | Title | The Company Men |
@@ -23,13 +25,11 @@ For example, the metadata for the feature film "The Company Men" is defined as f
 | Release&nbsp;date | 11.02.2011 |
 | Genre | Feature Film |
 
-The file metadata for the feature film "The Company Men" is defined as follows:
+The file metadata for the feature film "The Company Men" is available as follows:
 
 | Identifer | 294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d |
 | Filename | Wells_John_The_Company_Men.mp4 |
 | Duration | 6033323 |
-
-The corpus currently contains 408 movies (13 feature films, 76 documentaries, 315 TV news shows). 
 
 ### Encoding
 
@@ -49,5 +49,5 @@ We also developed a [Corpus Overview Web Application](http://ada.filmontology.or
 
 ### Download
 
-The corpus metadata is also available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology) as Turtle export.
+The corpus metadata is also available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology) as RDF export in Turtle format.
 
