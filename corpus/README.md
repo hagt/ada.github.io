@@ -20,7 +20,7 @@ For example, the metadata for the feature film "The Company Men" is defined as f
 | Abstract | The story centers on a year in the life of three men trying to survive a round of corporate downsizing at a major company - and how that affects them, their families, and their communities. |
 | Actors | Ben Affleck, Tommy Lee Jones, Chris Cooper, Suzanne Rico |
 | IMDB | http://www.imdb.com/title/tt1172991 |
-| Release date | 11.02.2011 |
+| Release&nbsp;date | 11.02.2011 |
 | Genre | Feature Film |
 
 The file metadata for the feature film "The Company Men" is defined as follows:
