@@ -37,6 +37,10 @@ For example, the predefined value *crescendo* of the annotation type *MusicAccen
 The AdA ontology is encoded as OWL ontology using the Resource Description Framework (RDF) and RDF schema. RDF is a graph data model, statements are formulated as in the form of *subject*, *predicate*, *object* (RDF
 triples).
 
+[![Image RDF graph](rdf_graph.png "RDF graph")](rdf_graph.png)
+
+Test
+
 ![Image RDF graph](rdf_graph.png)
 
 ### Online Access
