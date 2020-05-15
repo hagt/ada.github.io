@@ -16,7 +16,8 @@ The AdA ontology is structured into three different kinds of film-analytical con
 | Annotation Types | Concepts of film analysis under which a movie is analyzed (e.g., music mood, camera movement speed) |
 | Annotation Values | A set of predefined values assigned to each annotation type (e.g., neutral, tense, happy, sad, aggressive for music mood) |
 
-![Image Levels Types Values](levels_types_values.png)
+
+[![Image Levels Types Values](levels_types_values.png "Levels, Types, and Values")](levels_types_values.png)
 
 The ontology allows free text annotations (around a quarter of the types, e.g., dialog text) and annotations with predefined values (around three quarters of the types, see above).
 
@@ -38,10 +39,6 @@ The AdA ontology is encoded as OWL ontology using the Resource Description Frame
 triples).
 
 [![Image RDF graph](rdf_graph.png "RDF graph")](rdf_graph.png)
-
-Test
-
-![Image RDF graph](rdf_graph.png)
 
 ### Online Access
 
