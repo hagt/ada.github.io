@@ -16,6 +16,12 @@ navigation:
         url: /ontology/#structure    
       - title: "- Content"
         url: /ontology/#content    
+      - title: "- Encoding"
+        url: /ontology/encoding    
+      - title: "- Online Access"
+        url: /ontology/online-access    
+      - title: "- Download"
+        url: /ontology/download    
   - title: "Corpus Metadata"
     url: /corpus    
   - title: "Annotations"

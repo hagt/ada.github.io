@@ -38,7 +38,15 @@ For example, the predefined value *crescendo* of the annotation type *MusicAccen
 
 ### Online Access
 
-We provide a browsable online version of the AdA ontology. Each entry of the ontology can be accessed by retrieving the respective URI of the term. As an entry point the [eMAEX annotation method](http://ada.filmontology.org/resource/2020/03/17/eMAEXannotationMethod) resource can be used. 
+We provide a browsable online version of the AdA ontology. Each entry of the ontology can be accessed by retrieving the respective URI of the term. The [eMAEX annotation method](http://ada.filmontology.org/resource/2020/03/17/eMAEXannotationMethod) resource can be used as an entry point. More examples are listed below:
+
+| Annotation Level | [Camera](http://ada.filmontology.org/resource/2020/03/17/AnnotationLevel/Camera)|
+| Annotation Level | [Acoustics](http://ada.filmontology.org/resource/2020/03/17/AnnotationLevel/Acoustics)|
+| Annotation Type | [Camera Movement Type](http://ada.filmontology.org/resource/2020/03/17/AnnotationType/CameraMovementType)|
+| Annotation Type | [Music Mood](http://ada.filmontology.org/resource/2020/03/17/AnnotationType/MusicMood)|
+| Annotation Value | [Camera Movement Type - tracking shot](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/CameraMovementType_tracking_shot)|
+| Annotation Value | [Music Mood - sad](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicMood_sad)|
+
 
 ### Download
 
