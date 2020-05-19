@@ -8,7 +8,7 @@ The FU Berlin project team compiled a video corpus with feature films, documenta
 
 The corpus metadata is divided into general film metadata and metadata for video files. Film metadata contains information such as the identifier, title, director and summary of the film. The file metadata contains the exact runtime, the file name and an identifier that was determined by the SHA256 checksum of the file. 
 
-The corpus currently contains 408 movies (13 feature films, 76 documentaries, 315 TV news shows). 390 movies are available as transcoded material for analysis.
+The corpus currently contains 404 movies (13 feature films, 76 documentaries, 315 TV news shows). 390 movies are available as transcoded material for analysis.
 
 For example, the metadata for the feature film "The Company Men" is available as follows:
 
