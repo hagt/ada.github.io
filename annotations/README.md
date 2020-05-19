@@ -7,7 +7,7 @@ Throughout the project, the FU Berlin project team created a very high quality d
 
 ### Annotation Creation
 
-The annotations were created based on a film scholar's analytical framework ([eMAEX method](https://www.ada.cinepoetics.fu-berlin.de/en/Methoden/eMAEX/index.html)) to study the aesthetics of audio-visual images. The annotation work followed a strict annotation routine to precisely describe the films of the [corpus](/corpus) under different levels of description (see [ontology](/ontology)).
+The annotations were created based on a film scholar's analytical framework ([eMAEX method](https://www.ada.cinepoetics.fu-berlin.de/en/Methoden/eMAEX/index.html)) to study the aesthetics of audio-visual images. The annotation work followed a strict annotation routine to precisely describe the films of the [corpus](../corpus) under different levels of description (see [ontology](../ontology)).
 
 The annotation process is carried out with [Advene](https://www.advene.org/), a free software toolkit for annotating audio-visual documents. We worked closely with Olivier Aubert, the author of Advene, on the one hand to improve the user interface for faster annotation work, and on the other hand to enable the import of the AdA ontology and the export of W3C compliant video annotations as RDF data.
 

@@ -39,7 +39,7 @@ The corpus metadata is encoded as RDF data using existing vocabularies such as t
 
 ### Online Access
 
-As for the [ontology](/ontology), metadata for the corpus can be viewed online in our triplestore. The [Corpus](http://ada.filmontology.org/resource/Corpus) resource can be used as an entry point. More examples are listed below:
+As for the [ontology](../ontology), metadata for the corpus can be viewed online in our triplestore. The [Corpus](http://ada.filmontology.org/resource/Corpus) resource can be used as an entry point. More examples are listed below:
 
 |Feature Film|The Company Men|[Movie URI](http://ada.filmontology.org/resource/movie/60)|[Media URI](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d)|
 |Documentary|Occupy Wall Street|[Movie URI](http://ada.filmontology.org/resource/movie/74)|[Media URI](http://ada.filmontology.org/resource/media/39953b6ccea8c49b0a119f1715aab20818e4564cc4b2c2e8567722c9f418f1b9)|
