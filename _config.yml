@@ -17,8 +17,12 @@ navigation:
     url: /publications/
   - title: "WebApp Quick Links"
     subitems: 
-      - title: "OntoViz"
+      - title: "- OntoViz"
         url: http://ada.filmontology.org/ontoviz/    
+      - title: "- Corpus Overview"
+        url: http://ada.filmontology.org/corpus/    
+      - title: "- Annotation Explorer"
+        url: http://ada.filmontology.org/explorer/    
 
 markdown: kramdown
 

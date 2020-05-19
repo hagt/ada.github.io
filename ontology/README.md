@@ -1,8 +1,8 @@
 ## The AdA Ontology
 
-The AdA ontology is a systematic vocabulary and data model of film-analytical terms and concepts for fine-grained semantic video annotations.
-
 ![Image Ontology Excerpt](ontology_excerpt.png)
+
+The AdA ontology is a systematic vocabulary and data model of film-analytical terms and concepts for fine-grained semantic video annotations.
 
 ### Purpose
 
@@ -56,5 +56,5 @@ We also developed an interactive visualization of the AdA ontology that can be a
 
 ### Download
 
-The AdA ontology is also available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology). The OWL file can be viewed and edited using the [Protégé ontology editor](https://protege.stanford.edu/). 
+The AdA ontology is available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology). The OWL file can be viewed and edited using the [Protégé ontology editor](https://protege.stanford.edu/). 
 
