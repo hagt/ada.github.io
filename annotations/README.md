@@ -14,11 +14,11 @@ To create annotations that conform to the AdA ontology, you can use the [Advene 
 
 ### Structure
 
-The datasets created in the AdA project consist of thousands of annotations that use timecode-based references to the original video material. Each annotation refers to a fragment of a movie using start and end timecodes to which the annotation applies. The actual content of the annotation relates to the annotation types and values defined in the AdA ontology. Each annotation also contains metadata about the author and the creation date.
+The datasets created in the AdA project consist of thousands of annotations that use timecode-based references to the original video material. Each annotation refers to a fragment of a movie using start and end timecodes to which the annotation applies. The actual content of the annotation refers to the film-analytical concept described by the annotator as defined by the annotation types and values in the AdA ontology. Each annotation also contains metadata about the author and the creation date.
 
-For example, the following information is available to characterize the camera movement at minute 41 of the feature film "The Company Men":
+For example, the following information is available to characterize camera movement in minute 41 of the feature film "The Company Men":
 
-| Annotation ID | [ed63d084-717f-11e9-99b8-0242ac130003[(http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003) |
+| Annotation ID | [ed63d084-717f-11e9-99b8-0242ac130003](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003) |
 | Begin timecode | 00:41:29 | 
 | End  timecode | 00:41:50 | 
 | Annotation Type | [Camera Movement Type](http://ada.filmontology.org/resource/2020/03/17/AnnotationType/CameraMovementType)|
@@ -28,7 +28,7 @@ For example, the following information is available to characterize the camera m
 
 ### Encoding
 
-
+Our annotations are encoded using the latest [W3C Web Annotation Data Model](https://www.w3.org/TR/annotation-model/). An annotation in this model is a relationship between resources, which normally consist of a body (the description) and a target (an external resource, e.g., a movie, an MP3 file, a PDF document). Since we have to refer to parts of external resources (video fragments), we use the standard [W3C Media Fragments URI](https://www.w3.org/TR/media-frags/) to encode temporal references in URIs.
 
 [comment]: <> (Scene Segmentation)
 
