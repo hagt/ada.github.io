@@ -58,5 +58,5 @@ We also developed an interactive visualization of the AdA ontology that can be a
 
 The AdA ontology is available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology). The OWL file can, for example, be viewed and edited with the [Protégé ontology editor](https://protege.stanford.edu/). 
 
-[comment]: <> (Data model)
+[comment]: <> (Data model - types etc.)
 
