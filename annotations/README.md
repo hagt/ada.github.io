@@ -18,14 +18,13 @@ The datasets created in the AdA project consist of thousands of annotations that
 
 For example, the following information is available to characterize the camera movement at minute 41 of the feature film "The Company Men":
 
-| Annotation ID | ed63d084-717f-11e9-99b8-0242ac130003 |
+| Annotation ID | [ed63d084-717f-11e9-99b8-0242ac130003[(http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003) |
 | Begin timecode | 00:41:29 | 
 | End  timecode | 00:41:50 | 
 | Annotation Type | [Camera Movement Type](http://ada.filmontology.org/resource/2020/03/17/AnnotationType/CameraMovementType)|
 | Annotation Value | [tracking shot](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/CameraMovementType_tracking_shot)|
 | Author | anton |
 | Date | 2018-05-04 22:10:22 |
-
 
 ### Encoding
 
