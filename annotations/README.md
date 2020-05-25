@@ -11,6 +11,8 @@ The annotations were created based on a film scholar's analytical framework ([eM
 
 The annotation process is carried out with [Advene](https://www.advene.org/), a free software toolkit for annotating audio-visual documents. We worked closely with Olivier Aubert, the author of Advene, on the one hand to improve the user interface for faster annotation work, and on the other hand to enable the import of the AdA ontology and the export of W3C compliant video annotations as RDF data.
 
+To create annotations that conform to the AdA ontology, you can use the Advene template package that we provide in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/advene_template).
+
 ### Structure
 
 
