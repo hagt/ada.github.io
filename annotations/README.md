@@ -43,10 +43,34 @@ All annotations are published online in our triplestore. The annotations can be 
 
 ### Download
 
-All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format and in JSON-LD format.
+All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format and in JSON-LD format. Currently, we provide annotations for the following movies:
 
+| Movie | # Annotations |
+|-------|---------------|
+| Inside Job | 14422 |
+| Margin Call | 546 |
+| Occupy Wall Street | 581 |
+| Tagesschau 2008-07-15 | 442 |
+| Tagesschau 2008-09-08 | 345 |
+| Tagesschau 2008-09-12 | 495 |
+| Tagesschau 2008-09-13 | 414 |
+| Tagesschau 2008-09-15 | 565 |
+| Tagesschau 2008-09-16 | 829 |
+| Tagesschau 2008-09-17 | 532 |
+| Tagesschau 2008-09-18 | 487 |
+| Tagesschau 2008-09-19 | 805 |
+| Tagesschau 2008-09-20 | 314 |
+| Tagesschau 2008-09-21 | 512 |
+| Tagesschau 2008-09-22 | 534 |
+| Tagesschau 2008-09-23 | 520 |
+| Tagesschau 2008-09-24 | 415 |
+| Tagesschau 2008-09-25 | 608 |
+| Tagesschau 2008-09-26 | 470 |
+| Tagesschau 2008-09-29 | 439 |
+| Tagesschau 2008-09-30 | 684 |
+| The Big Short | 22892 |
+| The Company Men | 24285 |
 
 [comment]: <> (Scene Segmentation)
-
 
 [comment]: <> (Annotation  Querys / SPARQL)
