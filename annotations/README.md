@@ -19,8 +19,8 @@ The datasets created in the AdA project consist of thousands of annotations that
 For example, the following information is available to characterize camera movement in minute 41 of the feature film "The Company Men":
 
 | Annotation ID | [ed63d084-717f-11e9-99b8-0242ac130003](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003) |
-| Begin timecode | 00:41:29 | 
-| End  timecode | 00:41:50 | 
+| Begin timecode | 00:41:29.900 | 
+| End  timecode | 00:41:50.620 | 
 | Annotation Type | [Camera Movement Type](http://ada.filmontology.org/resource/2020/03/17/AnnotationType/CameraMovementType)|
 | Annotation Value | [tracking shot](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/CameraMovementType_tracking_shot)|
 | Author | anton |
@@ -28,8 +28,25 @@ For example, the following information is available to characterize camera movem
 
 ### Encoding
 
-Our annotations are encoded using the latest [W3C Web Annotation Data Model](https://www.w3.org/TR/annotation-model/). An annotation in this model is a relationship between resources, which normally consist of a body (the description) and a target (an external resource, e.g., a movie, an MP3 file, a PDF document). Since we have to refer to parts of external resources (video fragments), we use the standard [W3C Media Fragments URI](https://www.w3.org/TR/media-frags/) to encode temporal references in URIs.
+Our annotations are encoded using the latest [W3C Web Annotation Data Model](https://www.w3.org/TR/annotation-model/). An annotation in this model is a relationship between resources, which normally consists of a body (the description) and a target (an external resource, e.g., a movie, an MP3 file, a PDF document). Since we have to refer to parts of external resources (video fragments), we use the standard [W3C Media Fragments URI](https://www.w3.org/TR/media-frags/) to encode temporal references in URIs. Using the example above, the annotation type and value are encoded in the annotation body and the video segment is referenced with the timecode interval *t=2489.900,2510.620*. 
+
+[![Image Annotation](annotation_rdf.png "RDF Annotation")](annotation_rdf.png)
+
+
+### Online Access
+
+All annotations are published online in our triplestore. The annotations can be accessed through their URIs. Here are some examples:
+
+| The Company Men | Annotation with one predefined value | Timecode 00:41:29-00:41:50 | [Camera Movement Type: tracking shot](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63d084-717f-11e9-99b8-0242ac130003) |
+| The Company Men | Annotation with evolving values | Timecode 00:41:29-00:41:50 | [Camera Angle Canted: level [TO] tilt right](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63f0be-717f-11e9-99b8-0242ac130003) |
+| Inside Job | Annotation with a text value | Timecode 00:01:05-00:01:13 | [Dialogue transcript](http://ada.filmontology.org/resource/media/1efe8238d70064653f065750f9b92e89505fcb16fa8bd5cf4b8c95b82dcc905c/1c73f962-7180-11e9-9cd5-0242ac130003) |
+
+### Download
+
+All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format and in JSON-LD format.
+
 
 [comment]: <> (Scene Segmentation)
 
 
+[comment]: <> (Annotation  Querys / SPARQL)

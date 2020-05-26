@@ -23,6 +23,8 @@ navigation:
         url: http://ada.filmontology.org/corpus/    
       - title: "- Annotation Explorer"
         url: http://ada.filmontology.org/explorer/    
+      - title: "- GitHub Repository"
+        url: https://github.com/ProjectAdA/public    
 
 markdown: kramdown
 

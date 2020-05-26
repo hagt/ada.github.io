@@ -31,6 +31,7 @@ For example, the predefined value *crescendo* of the annotation type *MusicAccen
 | Label (en) | crescendo | 
 | Description (de) | Deutliche Intensivierung der Musik, z.B. durch ansteigende Lautstärke oder ansteigende Tonhöhe. | 
 | Description (en) | Noticeable intensification of the music, e.g. through increasing volume or rising pitch. | 
+| Belongs to Type | [MusicAccent](http://ada.filmontology.org/resource/2020/03/17/AnnotationType/MusicAccent) | 
 
 ### Encoding
 
