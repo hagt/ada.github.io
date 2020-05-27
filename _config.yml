@@ -15,7 +15,7 @@ navigation:
     url: /annotations/
   - title: "Publications"
     url: /publications/
-  - title: "WebApp Quick Links"
+  - title: "Quick Links"
     subitems: 
       - title: "- OntoViz"
         url: http://ada.filmontology.org/ontoviz/    
