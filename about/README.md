@@ -1,7 +1,8 @@
 ## About the Project
 
-![Title Picture](/images/ada.png)
+![Title Picture](ada2.png)
+*<font size="1">Image Credit: Daniel Vorndran, wikimedia commons, CC-BY-SA 4.0</font>*
 
-The interdisciplinary research group "Audio-Visual Rhetorics of Affect" is an ongoing collaboration (2017-2020) between the [film studies department](https://www.ada.cinepoetics.fu-berlin.de/en/index.html) of [Freie Universtät Berlin](https://www.fu-berlin.de/en/) and the [Semantic Technologies Group](https://hpi.de/meinel/knowledge-tech/former-topics/semantics.html) of the [Hasso Plattner Institute for Digital Engineering (HPI)](https://hpi.de/en/index.html) in Potsdam.
+### Introduction
 
-On this website we publish and describe all technical results of the project developed at the HPI. Currently, this is all semantic data and all linked data applications that were generated and developed within the project.
+The study of audio-visual rhetorics of affect scientifically analyzes the influence of auditory and visual staging patterns on the perception of media productions and the conveyed emotions. The AdA project aims to examine the hypothesis of television reports drawing on audio-visual patterns in cinematographic productions to emotionally affect viewers by analyzing television reports, documentaries and genre films of the topos "financial crisis". In a large-scale corpus analysis, film scholars identify and annotate low- to high-level audio-visual patterns, such as shot duration, dominant colors, major-minor tonality and depicted visual concepts. By comparing different annotations from different scenes and genres, film scholars can analyze this opinion-forming level of reporting.
