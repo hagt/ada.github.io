@@ -11,31 +11,9 @@ The study of audio-visual rhetorics of affect scientifically analyzes the influe
 
 The part of the project that is being worked on at the HPI has two main objectives: 1) creation of a standardized annotation vocabulary to be applied for semantic annotations and 2) semi-automatic classification of audio-visual patterns by training models on manually assembled ground truth annotation data. The annotation vocabulary for empirical film studies and semantic annotations of audio-visual material based on Linked Open Data principles enables the publication, reuse, retrieval, and visualization of results from film-analytical methods. Furthermore, automatic analysis of video streams allows to speed up the process of extracting audio-visual patterns.
 
-### Test
+### Technical Project Setup
 
-	 Test indent
-	 
-Blah
+The project relies on tool-based video annotation and data management following the Linked Open Data principles. [Advene](https://www.advene.org/) was chosen for this project as annotation software because it meets best the needs of film scientists: It offers a timeline view and segment based annotations of video sequences using multiple tracks which can be used to annotate various aspects under which a video is analyzed. We closely worked together with the author of Advene who developed project-specific extensions, such as the import of OWL ontologies and export of RDF data, thus enabling film scholars to create film scientists to create semantic video annotations without having to deal with the technical challenges. 
 
-Scene
-: Structural segmentation unit in the viewer perception that is constituted by aesthetic and narrative markers: for example, through plot and figure constellations (beyond a simple unity of plot, place, and time) for the feature film, as well as through argumentative and other units of meaning for non-fictional formats. The marked scenes are provided with a working title and numbered consecutively.
-
-Test
-
-&nbsp;
-: Beschreibung
-
-<details>
-<summary>Segmentation</summary>
-&nbsp;
-: <details>
-: <summary>Expressive Movement</summary>
-: Expressive Movement' [Ger. Ausdrucksbewegung] refers to a phenomenological concept (see Plessner: Die Deutung des mimischen Ausdrucks, 1982, Bühler: Ausdruckstheorie, 1933, Wundt: Völkerpsychologie, 1900–1920) that was adapted to describe the affective dynamics of audiovisual images (Kappelhoff/Bakels: Zuschauergefühl, 2011). In this regard films are understood as movement patterns that combine different staging tools such as sound composition, montage rhythm, camera movements, and acting into one temporal gestalt. These patterns organize the spectators' perception processes over the temporal course of film viewing (see Müller/Kappelhoff: Cinematic Metaphor, 2018, 132). This annotation type provides free descriptions of these cinematic expressive movements.
-: </details>
-: <details>
-: <summary>Scene</summary>
-: Structural segmentation unit in the viewer perception that is constituted by aesthetic and narrative markers: for example, through plot and figure constellations (beyond a simple unity of plot, place, and time) for the feature film, as well as through argumentative and other units of meaning for non-fictional formats. The marked scenes are provided with a working title and numbered consecutively.
-: </details>
-</details>
-
+[![Image Technical Project Setup](project_setup.png "Technical Project Setup")](project_setup.png)
 
