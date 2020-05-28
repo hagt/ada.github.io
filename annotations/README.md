@@ -41,6 +41,8 @@ All annotations are published online in our triplestore. The annotations can be 
 | The Company Men | Annotation with evolving values | Timecode 00:41:29-00:41:50 | [Camera Angle Canted: level [TO] tilt right](http://ada.filmontology.org/resource/media/294704ee3bd55a6888235ae7721120c29522eddd3cc273cc8365fa0eef2ac56d/ed63f0be-717f-11e9-99b8-0242ac130003) |
 | Inside Job | Annotation with a text value | Timecode 00:01:05-00:01:13 | [Dialogue transcript](http://ada.filmontology.org/resource/media/1efe8238d70064653f065750f9b92e89505fcb16fa8bd5cf4b8c95b82dcc905c/1c73f962-7180-11e9-9cd5-0242ac130003) |
 
+We also developed the [Annotation Explorer](http://ada.filmontology.org/explorer/). It's a web-based application for querying, analyzing and visualizing semantic video annotations that provides access to over 90,000 annotations in a consistent way. It is also possible to query the raw RDF data using our public [SPARQL endpoint](http://ada.filmontology.org/sparql).
+
 ### Download
 
 All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format and in JSON-LD format. Currently, we provide annotations for the following movies:
