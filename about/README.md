@@ -14,21 +14,22 @@ The part of the project that is being worked on at the HPI has two main objectiv
 ### Test
 
 <details>
-<summary>Segmentation</summary>
+<summary>Segmentation</summary><p>
 
 	<details>
-	<summary>Expressive Movement</summary>
+	<summary>Expressive Movement</summary><p>
 
 	ExpressiveMovement: Expressive Movement' [Ger. Ausdrucksbewegung] refers to a phenomenological concept (see Plessner: Die Deutung des mimischen Ausdrucks, 1982, Bühler: Ausdruckstheorie, 1933, Wundt: Völkerpsychologie, 1900–1920) that was adapted to describe the affective dynamics of audiovisual images (Kappelhoff/Bakels: Zuschauergefühl, 2011). In this regard films are understood as movement patterns that combine different staging tools such as sound composition, montage rhythm, camera movements, and acting into one temporal gestalt. These patterns organize the spectators' perception processes over the temporal course of film viewing (see Müller/Kappelhoff: Cinematic Metaphor, 2018, 132). This annotation type provides free descriptions of these cinematic expressive movements.
 
-	</details>
+	</p></details>
 	
 	<details>
-	<summary>Scene</summary>
+	<summary>Scene</summary><p>
 
 	Structural segmentation unit in the viewer perception that is constituted by aesthetic and narrative markers: for example, through plot and figure constellations (beyond a simple unity of plot, place, and time) for the feature film, as well as through argumentative and other units of meaning for non-fictional formats. The marked scenes are provided with a working title and numbered consecutively.
 
-	</details>
+	</p></details>
 	
 	
-</details>
+</p></details>
+
