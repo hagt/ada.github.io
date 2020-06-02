@@ -5,9 +5,9 @@
 
 The research work within the project resulted in the following publications:
 
-**Semantic Annotation and Automated Extraction of Audio-Visual Staging Patterns in Large-Scale Empirical Film Studies**. Henning Agt-Rickauer, Christian Hentschel, Harald Sack. Proceedings of the Posters and Demos Track of the 14th [International Conference on Semantic Systems](https://2018.semantics.cc/) (SEMANTiCS 2018), Vienna, Austria, September 10-13, 2018. [pdf](semantics2018.pdf)
+**Semantic Annotation and Automated Extraction of Audio-Visual Staging Patterns in Large-Scale Empirical Film Studies**. Henning Agt-Rickauer, Christian Hentschel, Harald Sack. Proceedings of the Posters and Demos Track of the 14th [International Conference on Semantic Systems](https://2018.semantics.cc/) (SEMANTiCS 2018), Vienna, Austria, September 10-13, 2018. [[pdf]](semantics2018.pdf)
 
-**Automation and Standardization of Semantic Video Annotations for Large-Scale Empirical Film Studies**. Henning Agt-Rickauer, Christian Hentschel, Harald Sack. [Semantic Web in Libraries Conference](http://swib.org/swib18/) (SWIB18). [pdf](swib2018.pdf) [slides](https://swib.org/swib18/slides/2_hentschel_automation-and-standardization.pdf) [talk](https://youtu.be/S1_ssiTeXjo)
+**Automation and Standardization of Semantic Video Annotations for Large-Scale Empirical Film Studies**. Henning Agt-Rickauer, Christian Hentschel, Harald Sack. [Semantic Web in Libraries Conference](http://swib.org/swib18/) (SWIB18). [[pdf]](swib2018.pdf) [slides](https://swib.org/swib18/slides/2_hentschel_automation-and-standardization.pdf) [talk](https://youtu.be/S1_ssiTeXjo)
 
 **Authoring and Publishing Linked Open Film-Analytical Data**. Henning Agt-Rickauer, Olivier Aubert, Christian Hentschel, Harald Sack. Proceedings of the Posters and Demos Track of the 21st [International Conference on Knowledge Engineering and Knowledge Management](https://project.inria.fr/ekaw2018/) (EKAW 2018), Nancy, France, November 12-16, 2018. [pdf](ekaw2018.pdf)
 
