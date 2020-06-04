@@ -1,5 +1,7 @@
 ## Corpus Metadata
 
+<img src="https://m.media-amazon.com/images/M/MV5BMTQxMTgyNDc5M15BMl5BanBnXkFtZTcwMzk4OTM5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" style="height:268px;">
+
 ![Image Company Men](https://m.media-amazon.com/images/M/MV5BMTQxMTgyNDc5M15BMl5BanBnXkFtZTcwMzk4OTM5Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg)![Image Margin Call](https://m.media-amazon.com/images/M/MV5BMjE5NzkyNDI2Nl5BMl5BanBnXkFtZTcwMTYzNDc2Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg)![Image Capitalism](https://m.media-amazon.com/images/M/MV5BMTYyMTA2MTE4NF5BMl5BanBnXkFtZTcwNTgwMDE4Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg)![Image Inside Job](https://m.media-amazon.com/images/M/MV5BMTQ3MjkyODA2Nl5BMl5BanBnXkFtZTcwNzQxMTU4Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg)
 
 The FU Berlin project team compiled a video corpus with feature films, documentaries, television news and web videos on the global financial crisis after 2007 in order to investigate audio-visual rhetorics of affect. Since the films cannot be published for copyright reasons, we offer the semantic metadata of the corpus here.
