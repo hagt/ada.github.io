@@ -49,6 +49,7 @@ All annotation datasets are available for download in our [GitHub repository](ht
 
 | Movie | # Annotations |
 |-------|---------------|
+| Capitalism: A Love Story | 19917 |
 | Inside Job | 14422 |
 | Margin Call | 546 |
 | Occupy Wall Street | 581 |
