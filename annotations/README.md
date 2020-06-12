@@ -9,13 +9,13 @@ Throughout the project, the FU Berlin project team created a very high quality d
 
 The annotations were created based on a film scholar's analytical framework ([eMAEX method](https://www.ada.cinepoetics.fu-berlin.de/en/Methoden/eMAEX/index.html)) to study the aesthetics of audio-visual images. The annotation work followed a strict annotation routine to precisely describe the films of the [corpus](../corpus) under different levels of description (see [ontology](../ontology)).
 
-The annotation process is carried out with [Advene](https://www.advene.org/), a free software toolkit for annotating audio-visual documents. We worked closely with Olivier Aubert, one of the authors of Advene, on the one hand to improve the user interface for faster annotation work, and on the other hand to enable the import of the AdA ontology and the export of W3C compliant video annotations as RDF data.
+The annotation process is carried out with [Advene](https://www.advene.org/), a free software toolkit for annotating audio-visual documents. We worked closely with Olivier Aubert, one of the authors of Advene, on the one hand to improve the user interface for faster annotation work, and on the other hand to enable the import of the AdA filmontology and the export of W3C compliant video annotations as RDF data.
 
-To create annotations that conform to the AdA ontology, you can use the [Advene template package](https://github.com/ProjectAdA/public/tree/master/advene_template) that we provide in our GitHub repository.
+To create annotations that conform to the AdA filmontology, you can use the [Advene template package](https://github.com/ProjectAdA/public/tree/master/advene_template) that we provide in our GitHub repository.
 
 ### Structure
 
-The datasets created in the AdA project consist of thousands of annotations that use timecode-based references to the original video material. Each annotation refers to a fragment of a movie using start and end timecodes to which the annotation applies. The actual content of the annotation refers to the film-analytical concept described by the annotator as defined by the annotation types and values in the AdA ontology. Each annotation also contains metadata about the author and the creation date.
+The datasets created in the AdA project consist of thousands of annotations that use timecode-based references to the original video material. Each annotation refers to a fragment of a movie using start and end timecodes to which the annotation applies. The actual content of the annotation refers to the film-analytical concept described by the annotator as defined by the annotation types and values in the AdA filmontology. Each annotation also contains metadata about the author and the creation date.
 
 For example, the following information is available to characterize camera movement in minute 41 of the feature film "The Company Men":
 
