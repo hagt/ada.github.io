@@ -25,6 +25,8 @@ navigation:
         url: http://ada.filmontology.org/explorer/    
       - title: "- GitHub Repository"
         url: https://github.com/ProjectAdA/public    
+      - title: "- AdA @ FU Berlin"
+        url: https://www.ada.cinepoetics.fu-berlin.de/en/index.html    
 
 markdown: kramdown
 
