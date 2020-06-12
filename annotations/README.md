@@ -45,6 +45,7 @@ All annotations are published online in our triplestore. The annotations can be 
 We also developed the [Annotation Explorer](http://ada.filmontology.org/explorer/). It's a web-based application for querying, analyzing and visualizing semantic video annotations that provides access to over 90,000 annotations in a consistent way. It is also possible to query the raw RDF data using our public [SPARQL endpoint](http://ada.filmontology.org/sparql).
 
 [![Image Explorer](annotation_explorer.png "Annotation Explorer Web Application")](annotation_explorer.png)
+*<font size="1">Image Credit: Screenshot of our Annotation Explorer web application with queries of annotations from the film The Company Men.</font>*
 
 ### Download
 
