@@ -1,8 +1,8 @@
-## The AdA Ontology
+## The AdA Filmontology
 
 ![Image Ontology Excerpt](ontology_excerpt.png)
 
-The AdA ontology is a systematic vocabulary and data model of film-analytical terms and concepts for fine-grained semantic video annotations.
+The AdA filmontology is a systematic vocabulary and data model of film-analytical terms and concepts for fine-grained semantic video annotations.
 
 ### Purpose
 
@@ -10,7 +10,7 @@ The vocabulary is developed in close collaboration between film scholars and com
 
 ### Structure
 
-The AdA ontology is structured into three different kinds of film-analytical concepts:
+The AdA filmontology is structured into three different kinds of film-analytical concepts:
 
 | Annotation Levels | General categories of description (e.g., acoustics, camera) |
 | Annotation Types | Concepts of film analysis under which a movie is analyzed (e.g., music mood, camera movement speed) |
@@ -22,7 +22,7 @@ The ontology allows free text annotations (around a quarter of the types, e.g., 
 
 ### Content
 
-The AdA ontology v1.8 currently consists of 8 annotation levels, 78 annotation types and 501 annotation values. Each level, type and value has a unique resource identifier (URI), an English and German name, and an English and German description. In addition, types are assigned color codes for better differentiation in annotation software tools.
+The AdA filmontology v1.8 currently consists of 8 annotation levels, 78 annotation types and 501 annotation values. Each level, type and value has a unique resource identifier (URI), an English and German name, and an English and German description. In addition, types are assigned color codes for better differentiation in annotation software tools.
 
 For example, the predefined value *crescendo* of the annotation type *MusicAccent* is defined as follows.
 
@@ -35,14 +35,14 @@ For example, the predefined value *crescendo* of the annotation type *MusicAccen
 
 ### Encoding
 
-The AdA ontology is encoded as OWL ontology using the Resource Description Framework (RDF) and RDF schema. RDF is a graph data model, statements are formulated as in the form of *subject*, *predicate*, *object* (RDF
+The AdA filmontology is encoded as OWL ontology using the Resource Description Framework (RDF) and RDF schema. RDF is a graph data model, statements are formulated as in the form of *subject*, *predicate*, *object* (RDF
 triples).
 
 [![Image RDF graph](rdf_graph.png "RDF graph")](rdf_graph.png)
 
 ### Online Access
 
-We provide a browsable online version of the AdA ontology. Each entry of the ontology can be accessed by retrieving the respective URI of the term. The [eMAEX annotation method](http://ada.filmontology.org/resource/2020/03/17/eMAEXannotationMethod) resource can be used as an entry point. More examples are listed below:
+We provide a browsable online version of the AdA filmontology. Each entry of the ontology can be accessed by retrieving the respective URI of the term. The [eMAEX annotation method](http://ada.filmontology.org/resource/2020/03/17/eMAEXannotationMethod) resource can be used as an entry point. More examples are listed below:
 
 | Annotation Level | [Camera](http://ada.filmontology.org/resource/2020/03/17/AnnotationLevel/Camera)|
 | Annotation Level | [Acoustics](http://ada.filmontology.org/resource/2020/03/17/AnnotationLevel/Acoustics)|
@@ -53,11 +53,11 @@ We provide a browsable online version of the AdA ontology. Each entry of the ont
 
 The data is served using the RDF triplestore [OpenLink Virtuoso](https://virtuoso.openlinksw.com/) and [LodView](https://github.com/LodLive/LodView), a software for W3C standard compliant IRI dereferenciation.
 
-We also developed an interactive visualization of the AdA ontology that can be accessed in our [OntoViz tool](http://ada.filmontology.org/ontoviz/).
+We also developed an interactive visualization of the AdA filmontology that can be accessed in our [OntoViz tool](http://ada.filmontology.org/ontoviz/).
 
 ### Download
 
-The AdA ontology is available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology). The OWL file can, for example, be viewed and edited with the [Protégé ontology editor](https://protege.stanford.edu/). 
+The AdA filmontology is available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/ontology). The OWL file can, for example, be viewed and edited with the [Protégé ontology editor](https://protege.stanford.edu/). We also offer a ready-to-use [Advene template package](https://github.com/ProjectAdA/public/tree/master/advene_template) to create annotations that conform to AdA filmontology.
 
 [comment]: <> (Data model - types etc.)
 
