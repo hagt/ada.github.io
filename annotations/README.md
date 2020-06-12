@@ -1,6 +1,7 @@
 ## Film-Analytical Annotations
 
 [![Image Advene](advene.png "Annotations in Advene")](advene.png)
+*<font size="1">Image Credit: Screenshot of Advene annotation software showing the Occupy Wall Street video.</font>*
 
 Throughout the project, the FU Berlin project team created a very high quality data set of manual film-analytical annotations for a set of feature films, documentaries, and television news. These valuable annotations are published here as Linked Open Data under the CC BY-SA 3.0 license to make the data available to other film scientists as well as researchers from other domains.
 
@@ -8,7 +9,7 @@ Throughout the project, the FU Berlin project team created a very high quality d
 
 The annotations were created based on a film scholar's analytical framework ([eMAEX method](https://www.ada.cinepoetics.fu-berlin.de/en/Methoden/eMAEX/index.html)) to study the aesthetics of audio-visual images. The annotation work followed a strict annotation routine to precisely describe the films of the [corpus](../corpus) under different levels of description (see [ontology](../ontology)).
 
-The annotation process is carried out with [Advene](https://www.advene.org/), a free software toolkit for annotating audio-visual documents. We worked closely with Olivier Aubert, the author of Advene, on the one hand to improve the user interface for faster annotation work, and on the other hand to enable the import of the AdA ontology and the export of W3C compliant video annotations as RDF data.
+The annotation process is carried out with [Advene](https://www.advene.org/), a free software toolkit for annotating audio-visual documents. We worked closely with Olivier Aubert, one of the authors of Advene, on the one hand to improve the user interface for faster annotation work, and on the other hand to enable the import of the AdA ontology and the export of W3C compliant video annotations as RDF data.
 
 To create annotations that conform to the AdA ontology, you can use the [Advene template package](https://github.com/ProjectAdA/public/tree/master/advene_template) that we provide in our GitHub repository.
 
@@ -43,6 +44,8 @@ All annotations are published online in our triplestore. The annotations can be 
 
 We also developed the [Annotation Explorer](http://ada.filmontology.org/explorer/). It's a web-based application for querying, analyzing and visualizing semantic video annotations that provides access to over 90,000 annotations in a consistent way. It is also possible to query the raw RDF data using our public [SPARQL endpoint](http://ada.filmontology.org/sparql).
 
+[![Image Explorer](annotation_explorer.png "Annotation Explorer Web Application")](annotation_explorer.png)
+
 ### Download
 
 All annotation datasets are available for download in our [GitHub repository](https://github.com/ProjectAdA/public/tree/master/annotations) as RDF export in Turtle format and in JSON-LD format. Currently, we provide annotations for the following movies:
@@ -73,6 +76,7 @@ All annotation datasets are available for download in our [GitHub repository](ht
 | Tagesschau 2008-09-30 | 684 |
 | The Big Short | 22892 |
 | The Company Men | 24285 |
+| **Total** | **92053** |
 
 [comment]: <> (Scene Segmentation)
 
