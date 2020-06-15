@@ -1,6 +1,7 @@
 ## The AdA Filmontology
 
 ![Image Ontology Excerpt](ontology_excerpt.png)
+*<font size="1">Image Credit: Screenshot of our ontology visualization tool.</font>*
 
 The AdA filmontology is a systematic vocabulary and data model of film-analytical terms and concepts for fine-grained semantic video annotations.
 
@@ -17,6 +18,7 @@ The AdA filmontology is structured into three different kinds of film-analytical
 | Annotation Values | A set of predefined values assigned to each annotation type (e.g., neutral, tense, happy, sad, aggressive for music mood) |
 
 [![Image Levels Types Values](levels_types_values.png "Levels, Types, and Values")](levels_types_values.png)
+*<font size="1">Image: The structure of levels, types, and values visualized using LodLive.</font>*
 
 The ontology allows free text annotations (around a quarter of the types, e.g., dialog text) and annotations with predefined values (around three quarters of the types, see above).
 
@@ -39,6 +41,7 @@ The AdA filmontology is encoded as OWL ontology using the Resource Description F
 triples).
 
 [![Image RDF graph](rdf_graph.png "RDF graph")](rdf_graph.png)
+*<font size="1">Image: Definition of an annotation value as RDF graph.</font>*
 
 ### Online Access
 

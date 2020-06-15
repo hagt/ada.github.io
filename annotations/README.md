@@ -32,7 +32,7 @@ For example, the following information is available to characterize camera movem
 Our annotations are encoded using the latest [W3C Web Annotation Data Model](https://www.w3.org/TR/annotation-model/). An annotation in this model is a relationship between resources, which normally consists of a body (the description) and a target (an external resource, e.g., a movie, an MP3 file, a PDF document). Since we have to refer to parts of external resources (video fragments), we use the standard [W3C Media Fragments URI](https://www.w3.org/TR/media-frags/) to encode temporal references in URIs. Using the example above, the annotation type and value are encoded in the annotation body and the video segment is referenced with the timecode interval *t=2489.900,2510.620*. 
 
 [![Image Annotation](annotation_rdf.png "RDF Annotation")](annotation_rdf.png)
-
+*<font size="1">Image: A semantic video annotation as RDF graph.</font>*
 
 ### Online Access
 
@@ -45,7 +45,7 @@ All annotations are published online in our triplestore. The annotations can be 
 We also developed the [Annotation Explorer](http://ada.filmontology.org/explorer/). It's a web-based application for querying, analyzing and visualizing semantic video annotations that provides access to over 90,000 annotations in a consistent way. It is also possible to query the raw RDF data using our public [SPARQL endpoint](http://ada.filmontology.org/sparql).
 
 [![Image Explorer](annotation_explorer.png "Annotation Explorer Web Application")](annotation_explorer.png)
-*<font size="1">Image Credit: Screenshot of our Annotation Explorer web application with queries of annotations from the film The Company Men.</font>*
+*<font size="1">Image: Screenshot of our Annotation Explorer web app with queries of annotations from the film "The Company Men".</font>*
 
 ### Download
 
