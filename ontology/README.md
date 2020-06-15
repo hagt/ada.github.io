@@ -28,7 +28,7 @@ The AdA filmontology v1.8 currently consists of 8 annotation levels, 78 annotati
 
 For example, the predefined value *crescendo* of the annotation type *MusicAccent* is defined as follows.
 
-| URI | http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicAccent_crescendo |
+| URI | [http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicAccent_crescendo](http://ada.filmontology.org/resource/2020/03/17/AnnotationValue/MusicAccent_crescendo) |
 | Label (de) | anschwellend | 
 | Label (en) | crescendo | 
 | Description (de) | Deutliche Intensivierung der Musik, z.B. durch ansteigende Lautstärke oder ansteigende Tonhöhe. | 
